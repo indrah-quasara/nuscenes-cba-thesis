@@ -1,0 +1,16 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Negated Search Query,Search Method
+31,40,80,4,30,15,29,26,5,13,10,0,1,1,2,0,0,0,0,1,0,0,0,0,Text: adult without traffic cone Negation: N,Normal Search
+30,39,65,1,16,2,80,6,7,4,4,21,1,1,6,0,0,0,0,1,0,0,0,0,Text: truck without car Negation: N,Normal Search
+13,29,33,1,5,2,10,42,45,4,1,1,0,0,5,0,0,0,0,0,1,0,0,0,Text: bicycle without motorcycle Negation: N,Normal Search
+65,16,26,2,39,2,19,2,0,16,15,9,0,2,0,0,1,0,0,0,0,0,0,0,Text: construction without construction worker Negation: N,Normal Search
+2,31,48,0,0,0,8,7,45,0,0,0,7,2,49,0,0,0,0,0,1,0,0,0,Text: bicycle rack without trailer Negation: N,Normal Search
+25,48,80,6,29,20,34,28,13,10,7,0,0,4,2,1,0,0,0,0,0,0,0,0,Text: child without police officer Negation: N,Normal Search
+26,56,72,2,25,9,30,22,19,8,8,0,0,9,1,1,3,1,0,0,0,0,0,0,Text: animal without stroller Negation: N,Normal Search
+23,57,81,4,14,3,33,12,5,3,1,3,0,1,1,1,2,0,0,0,1,2,0,0,Text: ambulance without police car Negation: N,Normal Search
+15,32,78,1,6,8,45,3,1,0,1,5,0,0,3,0,1,1,0,1,0,0,0,0,Text: car without adult Negation: N,Normal Search
+46,33,32,3,67,2,33,10,3,53,34,6,0,3,3,0,0,0,0,0,0,0,0,0,Text: construction worker without truck Negation: N,Normal Search
+11,37,36,2,8,1,10,20,71,4,2,0,0,0,5,0,0,0,0,0,0,0,0,0,Text: police officer without bicycle Negation: N,Normal Search
+92,46,36,3,14,1,14,3,3,5,4,0,0,7,0,0,1,0,0,0,0,0,0,0,Text: traffic cone without child Negation: N,Normal Search
+8,37,50,1,2,0,9,15,55,0,0,1,5,3,25,0,1,0,0,0,0,0,0,0,Text: stroller without bicycle rack Negation: N,Normal Search
+7,32,44,1,5,3,16,85,16,3,3,4,0,0,1,0,1,0,0,0,0,0,0,0,Text: motorcycle without animal Negation: N,Normal Search
+25,41,85,0,12,1,26,5,13,5,5,6,0,1,3,1,3,0,0,2,0,2,0,0,Text: police car without construction Negation: N,Normal Search
